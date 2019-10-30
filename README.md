@@ -7,7 +7,7 @@ ViceCity ADF Decrypter is a Tool written in Python  to easily decrypt .ADF files
 
 ### Installation
 
-ViceCity ADF requires [Python3](https://www.python.org/download/releases/3.0/) to run.
+ViceCity ADF Decrypter requires [Python3](https://www.python.org/download/releases/3.0/) to run.
 
 
 ```sh
