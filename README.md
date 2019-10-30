@@ -1,7 +1,7 @@
 # ViceCity ADF Decrypter
 ViceCity ADF Decrypter is a Tool written in Python  to easily decrypt .ADF files to MP3's.
 
-  - Drag ADF files into Encrypted folder
+  - Drag ADF files into the same folder as the script
   - Run Script
   - Done!
 
@@ -13,9 +13,6 @@ ViceCity ADF requires [Python3](https://www.python.org/download/releases/3.0/) t
 ```sh
 $ git clone https://github.com/TwidsDev/ViceCity-ADF-Decrypter.git
 $ cd ViceCity-ADF-Decrypter
-```
-Copy ADF Files into included Encrypted folder
-```sh
 $ python3 ViceCityDecrypter.py
 ```
 
