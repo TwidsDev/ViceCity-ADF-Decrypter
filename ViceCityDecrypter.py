@@ -12,5 +12,3 @@ for filename in os.listdir(Directory):
         for i in range(len(b)):
             b[i] ^= 0b100010
         open(new_file, 'wb').write(b)
-    else:
-        print("Couldn't find ADF files, please ensure they're in a folder called Encrypted")
